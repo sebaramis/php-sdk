@@ -23,7 +23,7 @@ $appName = explode('.', $domain)[0];
 
     <body>
         <header class="navbar">
-            <a class="logo" href="#"><img src="/getting-started/logo-developers.png" alt=""></a>
+            <a class="logo" href="#"><img src="https://www.tiendatrade.com/wp-content/uploads/2020/01/cropped-logo-tiendatrade-com.png" alt=""></a>
             <nav>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a target="_blank" href="http://developers.mercadolibre.com/getting-started/">Getting Started</a></li>
